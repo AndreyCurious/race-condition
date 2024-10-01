@@ -1,0 +1,17 @@
+.App {
+  margin: 10%;
+}
+
+.Friends-friend {
+  display: block;
+}
+
+.Friends_btn>button {
+  border: none;
+  margin-right: 2%;
+  padding: 1% 3%;
+}
+
+.Friends_btn>button.active {
+  border-bottom: 10px solid rgba(26, 70, 32, 0.533);
+}
